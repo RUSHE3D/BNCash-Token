@@ -10,7 +10,7 @@ BNCash contract is launched on the network
 ### Added - 2024-11-20
 -The project website is created
 -Domain changed to cloudflare
--Attention email is implemented
+-
 
 ### Changed
 ### Fixed
