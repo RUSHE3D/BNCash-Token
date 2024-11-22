@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 ### Added - 2024-11-20
 BNCash contract is launched on the network
 
-### Added - 2024-11-20
+### Added - 2024-11-22
 -The project website is created
 
 -Domain changed to cloudflare
